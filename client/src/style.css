@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+form {
+  display: grid;
+  justify-items: start;
+  gap: 6px;
+}
+
+input {
+  margin-bottom: 8px;
+}
+
+li {
+  margin-bottom: 8px;
+}
